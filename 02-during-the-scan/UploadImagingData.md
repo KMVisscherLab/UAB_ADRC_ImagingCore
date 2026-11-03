@@ -14,7 +14,7 @@ Imaging data are uploaded using the following protocol:
 
 ### 1. DICOM Data Transfer from Scanner to MIM
 
-- At the scanner, DICOM data are automatically transferred to the MIM Research folder.
+- At the scanner, DICOM data are transferred to the MIM Research folder.
 - In MIM, before running the predefined processing workflows, the data are manually organized and routed based on the tracer to the appropriate destination:
   - **1005:** PIB (Amyloid)
   - **2780:** Tau

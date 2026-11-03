@@ -1,25 +1,57 @@
-Imaging data is uploaded using this protocol:
 
+# Imaging Data Upload Protocol
 
-* Overview:
-  * Data are uploaded to MIM (DICOMS only) as well as to CHEAHA (DICOMS and raw list files).
-  * Some of the post-processed information from the imaging pipelines to be shared within our team is in this password protected box folder: https://uab.box.com/s/nrjcc9dq0m5gv6kqtesdld0ch17cj9za
-  * On REDCAP, Nikki updates the file at this address ****
+Imaging data are uploaded using the following protocol:
 
-* Strategy:
-  * At the scanner, data are pushed to MIM.  This only pushes the DICOMs
-  * Thus all data must also be saved on a USB, and transferred by hand, like it is 1999.
-    * This includes all dicoms as well as all .list files for PET data.  
-    * The best way to move these data is to use the program Easy_Export.py on the console computer.  This program came from Alex Smith at GE.  EasyExport puts the files on an SSD which we have attached to the the console computer
-    * These files are zipped on nautilus on the console.
-    * These files are then moved from the ssd to Cheaha via rc upload (or sometimes another portal like filezilla)
-    * Files are named by subject and by tracer.
-    * All files go to this directory:
-      *  (Mohammad, please fill this part in:  dkalbilab/ADRC/ ????)
-    * Tau Day only: 
-      *  Files are moved to CHEAHA /data/project/vislab/raw/METAFUN/ADRC/[ADCID]/ses-[TRACER]/
-      *   [ADCID] is the subject number, which differs per subject, and [TRACER] is AV1451 or ML.
-   
-    * 
-    * moved to this location on CHEAHA as well as this location on CHEAHA *** for Deepak to read.
-  * The data from this USB are transferred [how?  on your computer? do you use cyberduck or something else? ] to Box.  [also to cheaha?] 
+## Overview
+
+- Data are uploaded to MIM (DICOM files only) and Cheaha (DICOM and raw `.list` files).
+- Some of the post-processed information from the imaging pipelines is shared within our team through this password-protected Box folder:
+  https://uab.box.com/s/nrjcc9dq0m5gv6kqtesdld0ch17cj9za
+- On REDCap, Nikki updates the file at this address ****
+
+## Strategy
+
+### 1. DICOM Data Transfer from Scanner to MIM
+
+- At the scanner, DICOM data are automatically transferred to the MIM Research folder.
+- In MIM, before running the predefined processing workflows, the data are manually organized and routed based on the tracer to the appropriate destination:
+  - **1005:** PIB (Amyloid)
+  - **2780:** Tau
+- A prefix is added to the **Series Description** to distinguish between multiple scans of the same subject:
+  - **X1:** First scan
+  - **X2:** Second scan
+
+  This naming convention helps identify and distinguish different scanning sessions for the same subject.
+
+- Backup DICOM files from MIM are available on Cheaha for PIB subjects up to and including ADC742 and Tau subjects up to and including ADC615. Files for subjects after these IDs are not included in this backup.
+  - **PIB:** `/data/project/dkalbilab/fang_collab/ALL_ADRC_Dataset/PIB`
+  - **Tau:** `/data/project/dkalbilab/fang_collab/ALL_ADRC_Dataset/TAU`
+
+### 2. Raw Data Transfer from Scanner to Cheaha
+
+- For raw data, all data must also be saved to a USB drive and transferred manually, like it is 1999.
+- This includes all DICOM files as well as all `.list` files for PET data.
+- The best way to transfer these data is to use the `Easy_Export.py` program on the scanner console computer. This program was provided by Alex Smith at GE. EasyExport saves the files to an SSD attached to the console computer.
+- These files are compressed into ZIP archives using Nautilus on the console computer.
+- The files are then transferred from the SSD to Cheaha using `rc upload` (or sometimes another program such as FileZilla).
+- Files are named according to the subject and tracer.
+
+**Raw Data Storage on Cheaha:**
+
+- All raw files for PIB and Tau are moved to the following directory:
+
+  `/data/project/dkalbilab/fang_collab/GE_toolbox/RAW_DATA`
+
+**Tau Day Only (METAFUN):**
+
+- Files are moved to the following directory on Cheaha:
+
+  `/data/project/vislab/raw/METAFUN/ADRC/[ADCID]/ses-[TRACER]/`
+
+- `[ADCID]` is the subject number, which differs for each subject.
+- `[TRACER]` is either `AV1451` or `ML`.
+
+- moved to this location on CHEAHA as well as this location on CHEAHA *** for Deepak to read.
+
+- The data from this USB are transferred [how?  on your computer? do you use cyberduck or something else? ] to Box.  [also to cheaha?]

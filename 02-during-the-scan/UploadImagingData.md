@@ -8,7 +8,7 @@ Imaging data are uploaded using the following protocol:
 - Data are uploaded to MIM (DICOM files only) and Cheaha (DICOM and raw `.list` files).
 - Some of the post-processed information from the imaging pipelines is shared within our team through this password-protected Box folder:
   https://uab.box.com/s/nrjcc9dq0m5gv6kqtesdld0ch17cj9za
-- On REDCap, Nikki updates the file at this address ****
+- On REDCap, Nikki updates the file at this web address ****
 
 ## Strategy
 
@@ -52,6 +52,4 @@ Imaging data are uploaded using the following protocol:
 - `[ADCID]` is the subject number, which differs for each subject.
 - `[TRACER]` is either `AV1451` or `ML`.
 
-- moved to this location on CHEAHA as well as this location on CHEAHA *** for Deepak to read.
 
-- The data from this USB are transferred [how?  on your computer? do you use cyberduck or something else? ] to Box.  [also to cheaha?]

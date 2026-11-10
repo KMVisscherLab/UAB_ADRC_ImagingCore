@@ -82,7 +82,7 @@ Initial image quality checks, standardized preprocessing for open data sharing, 
 
 | Resource | Target System | Link |
 | :--- | :--- | :--- |
-| **Imaging QC and Data Logging** | Local / Cheaha | [View QC Tracker](https://docs.google.com/spreadsheets/d/1VLwVNRTVb9_FiwIojIE-f7ai5Kk-Ii3IUq1wh6uLjNs/edit?gid=0#gid=0) |
+| **Imaging QC and Data Logging** | Local / Cheaha | [View QC Tracker](https://uab.app.box.com/folder/430099072107?s=6bh28blduf8qrdw93l6yr2wmssmj676v) |
 | **Summary of Storage Contents** | Local / Cloud Tiers | [View Storage Manifest](03-after-the-scan/data-storage/storage-summary-manifest.md) |
 | **SCAN / DVCID & LONI Archiving** | LONI / External Repositories | [View Archiving SOP](03-after-the-scan/data-storage/scan-dvcid-and-loni-archiving.md) |
 

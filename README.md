@@ -84,7 +84,7 @@ The PET and MRI files are read by radiologists Deepak Kalbi (PET) and Veeranjane
 | Resource | Target System | Link |
 | :--- | :--- | :--- |
 | **Imaging QC and Data Logging** | Local / Cheaha | [View QC Tracker](https://uab.box.com/s/rnfefg6srvu36gbl8r7tdug159utbjzm) |
-| **Summary of Storage Contents** | Local / Cloud Tiers | [View Storage Manifest](03-after-the-scan/data-storage/storage-summary-manifest.md) |
+| **Summary of Storage Contents** | Local / Cloud Tiers | **to be added** [View Storage Manifest](03-after-the-scan/data-storage/storage-summary-manifest.md) |
 | **SCAN / DVCID & LONI Archiving** | LONI / External Repositories | [View Archiving SOP](03-after-the-scan/data-storage/scan-dvcid-and-loni-archiving.md) |
 
 <hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />

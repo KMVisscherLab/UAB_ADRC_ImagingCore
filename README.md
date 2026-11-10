@@ -26,7 +26,7 @@ Contact information for the people described here are listed in this password pr
 
 Participant identification, registry screening, consenting procedures, and MRI/PET visit scheduling.
 
-| Protocol / SOP | Study Track | Format | Link |
+| Protocol | Which Study | Format | Link |
 | :--- | :--- | :--- | :--- |
 | **Informed Consent Forms** | All Participants | pdfs | [View Folder](01-before-the-scan/ADRC_imaging_protocol_and_medication_guide) |
 

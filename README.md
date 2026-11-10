@@ -96,6 +96,8 @@ Secondary pipelines, biomarker quantification, and downstream structural analyse
 | :--- | :--- | :--- |
 | **White Matter Hyperintensity (WMH)** | Lesion segmentation, volumetric extraction, and scripts | [View Pipeline & Code](04-dataset-processing/whitematter-hyperintensity-pipeline.md) |
 
+
+<!-- Commenting this out
 <hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />
 
 <h2 style="background-color: #f0f4f9; border-left: 6px solid #0969da; padding: 12px 16px; border-radius: 0 6px 6px 0; margin-bottom: 20px;">🩺 5. Clinical Safety & Monitoring</h2>
@@ -109,6 +111,7 @@ Clinical oversight and management protocols for scan-related incidental findings
 <hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />
 
 <h2 style="background-color: #f6f8fa; border-left: 6px solid #57606a; padding: 12px 16px; border-radius: 0 6px 6px 0; margin-bottom: 20px;">ℹ️ Archiving & Citation</h2>
+--->
 
 To cite these study workflows in publications or progress reports:
 ```bibtex

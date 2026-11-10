@@ -5,8 +5,8 @@ This is a quick description of how to upload data that was collected on the imag
   * Once per week, a team member from Dr. Visscher's lab will convert these files to pdf, and upload them to this password protected Box [folder](https://uab.box.com/s/6bh28blduf8qrdw93l6yr2wmssmj676v)
   * When these are uploaded, the Visscher lab team will let the Data Core team know they are uploaded by indicating in [this redcap form](LINK TO REDCAP FORM) that they are ready for further processing.   
 
-* NIH toolbox and behavior laptop data
-* NNL computer data
+* NIH toolbox and behavior laptop data: All data from the N
+* NNL computer data: The Nordic NeuroLabs computer is the device that shows visual and auditor stimuli to the participants.  Data are transferred using the USB, and placed in 
 
 * General files to be shared among researchers are here: https://uab.app.box.com/folder/169852645606?s=nrjcc9dq0m5gv6kqtesdld0ch17cj9za
 

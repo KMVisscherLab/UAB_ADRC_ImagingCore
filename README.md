@@ -1,6 +1,5 @@
 # 🧠 UAB ADRC Multimodal Imaging Study Protocols 🧠 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://zenodo.org/)
+[![DOI](https://zenodo.org/badge/1332402612.svg)](https://doi.org/10.5281/zenodo.24097477)   
 ![NIH Funding](https://img.shields.io/badge/NIH-Supported-blue)
 ![HIPAA Notice](https://img.shields.io/badge/Data_Safety-No_PII-red)
 
@@ -121,5 +120,5 @@ To cite these study workflows in publications or progress reports:
   title  = {UAB ADRC Multimodal Imaging Protocols and Processing Pipelines},
   author = {[UAB ADRC Staff]},
   year   = {2026},
-  doi    = {10.5281/zenodo.placeholder}
+  doi    = {10.5281/zenodo.24097477}
 }```

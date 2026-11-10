@@ -30,7 +30,7 @@ Participant identification, registry screening, consenting procedures, and MRI/P
 | :--- | :--- | :--- | :--- |
 | **Participant Recruitment** | ADRC Cohort | 📄 PDF | [View Protocol](an/recruitment-adrc.docx01-before-the-scan/) |
 | **Participant Recruitment** | CLARITI Cohort | 📄 Word Doc | [View Protocol](01-before-the-scan/recruitment-clariti.docx) |
-| **Enrollment, Consenting & Scheduling** | All Participants | 📄 Word Doc | [View Protocol](01-before-the-scan/enrollment-consenting-scheduling.docx) |
+| **Enrollment, Consenting & Scheduling** | All Participants | Folder | [View Protocol](01-before-the-scan/ADRC_imaging_protocol_and_medication_guide) |
 
 ### Scheduling
 * Schedules for the PET MRI are in a password protected calendar on uabmc outlook.  The name of the calendar is "WTI PET Research."  You need permissions to view it, which you can get from Lucas Riley.

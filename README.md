@@ -28,7 +28,7 @@ Participant identification, registry screening, consenting procedures, and MRI/P
 
 | Protocol / SOP | Study Track | Format | Link |
 | :--- | :--- | :--- | :--- |
-| **Participant Recruitment** | ADRC Cohort | 📄 PDF | [View Protocol](an/recruitment-adrc.docx01-before-the-scan/recruitment-adrc.docx) |
+| **Participant Recruitment** | ADRC Cohort | 📄 PDF | [View Protocol](an/recruitment-adrc.docx01-before-the-scan/) |
 | **Participant Recruitment** | CLARITI Cohort | 📄 Word Doc | [View Protocol](01-before-the-scan/recruitment-clariti.docx) |
 | **Enrollment, Consenting & Scheduling** | All Participants | 📄 Word Doc | [View Protocol](01-before-the-scan/enrollment-consenting-scheduling.docx) |
 

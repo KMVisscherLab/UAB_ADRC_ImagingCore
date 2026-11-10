@@ -12,13 +12,13 @@
 ---
 
 ## 🧭 Overview
-For an overview of the processes that lead up to participants in our study undergoing imaging, please see ***Chad's flowchart** 
+For an overview of the processes that lead up to participants in our study undergoing imaging, please see ***Chad's flowchart, linke to be added** 
 
 [This messy figure](OrderOfEvents.pptx) describes the general overview of the order of events in this project.
 
 
-To suggest changes to this document, please email Kristina Visscher. 
-Contact information for the people described here are listed in this password protected [document](https://uab.app.box.com/file/2495951435335).   XXhow to make it visible to all our folksXXXXXXXX. 
+To suggest changes to this document, please email Kristina Visscher (or do a pull request). 
+Contact information for the people described here are listed in this password protected [document](https://uab.app.box.com/file/2495951435335). 
 
 <hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />
 

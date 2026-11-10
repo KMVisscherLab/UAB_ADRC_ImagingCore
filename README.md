@@ -48,9 +48,9 @@ Imaging Data are collected on "Amyloid Day" and "Tau Day".
 
 ### Amyloid Day: 
 * Possible PET tracers include: PIB, Amyvid
-* [Manual of Procedures](02-during-the-scan/amy-MOP.pdf) are detailed explanations of the set of procedures, including radiotracer administration timelines 
-* [Participant Information Sheets](02-during-the-scan/amy-PI.pdf) are forms that include checklists for during-scan acquisition and places for notes during the scan.
-* [Amyloid Scan Protocol](02-during-the-scan/amy-protocol.pdf) is a GE formatted description of the amyloid scan. 
+* [Manual of Procedures](02-during-the-scan/amy-MOP.pdf) are detailed explanations of the set of procedures, including radiotracer administration timelines (to be added)
+* [Participant Information Sheets](02-during-the-scan/amy-PI.pdf) are forms that include checklists for during-scan acquisition and places for notes during the scan. (to be added)
+* [Amyloid Scan Protocol](02-during-the-scan/amy-protocol.pdf) is a GE formatted description of the amyloid scan. (To be added)
 
 ### Data Uploads:
 * [Protocol for uploading imaging data](02-during-the-scan/UploadImagingData.md)

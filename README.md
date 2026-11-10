@@ -69,7 +69,7 @@ Initial image quality checks, standardized preprocessing for open data sharing, 
 ### A. Pre-Processing for Data Sharing
 
 Before further processing, a first pass analysis of the dataset must be gone through, described in [this document](https://uab.app.box.com/file/2293900374288) Most steps from that document are performed by Mohammad Nadian.
-The PET and MRI files are read by radiologists Deepak Kalbi (PET) and Veeranjaneyulu Prattipati (MRI), following [this document](03-after-the-scan/ADRCimageprocessingnotes8-25-2026.docx)
+The PET and MRI files are read by radiologists Deepak Kalbi (PET) and Veeranjaneyulu Prattipati (MRI).
 
 
 | Pipeline Step | Focus Area | Link |

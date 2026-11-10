@@ -13,5 +13,5 @@ This is a quick description of how to upload data that was collected on the imag
   * How to move it: Data are transferred using a USB 
   * Where to move it to:
 
-* General files to be shared among researchers are here: https://uab.app.box.com/folder/169852645606?s=nrjcc9dq0m5gv6kqtesdld0ch17cj9za
+* General files to be shared among researchers are in this password protected folder: https://uab.app.box.com/folder/169852645606?s=nrjcc9dq0m5gv6kqtesdld0ch17cj9za
 

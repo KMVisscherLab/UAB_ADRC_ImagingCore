@@ -30,7 +30,7 @@ Imaging data are uploaded using the following protocol:
 
 ### 2. Raw Data Transfer from Scanner to Cheaha
 
-- For raw data, all data must also be saved to a USB drive and transferred manually, like it is 1999.
+- For raw data, all data must also be saved to a USB drive and transferred manually, like it is the year 1999.
 - This includes all DICOM files as well as all `.list` files for PET data.
 - The best way to transfer these data is to use the `Easy_Export.py` program on the scanner console computer. This program was provided by Alex Smith at GE. EasyExport saves the files to an SSD attached to the console computer.
 - These files are compressed into ZIP archives using Nautilus on the console computer.

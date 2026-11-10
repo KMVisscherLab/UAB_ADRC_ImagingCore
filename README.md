@@ -1,6 +1,5 @@
 # 🧠 UAB ADRC Multimodal Imaging Study Protocols 🧠 
-[![DOI](https://zenodo.org/badge/1332402612.svg)](https://doi.org/10.5281/zenodo.24097477)   
-![NIH Funding](https://img.shields.io/badge/NIH-Supported-blue)
+[![DOI](https://zenodo.org/badge/1332402612.svg)](https://doi.org/10.5281/zenodo.24097477)   ![NIH Funding](https://img.shields.io/badge/NIH-Supported-blue)
 ![HIPAA Notice](https://img.shields.io/badge/Data_Safety-No_PII-red)
 
 > **This document is meant for two purposes: First, to serve as a quick reference for identifying and organizing information needed for the project during performance of the project.  Second, it will serve as documentation of the protocols used as part of this project.  Links to this document will be posted on the front page of the MOPs in the PET/MRI room so that people can find this information easily. **

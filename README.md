@@ -10,7 +10,7 @@
 ---
 
 ## 🧭 Overview
-For an overview of the processes that lead up to participants in our study undergoing imaging, please see ***Chad's flowchart, linke to be added** 
+For an overview of the processes that lead up to participants in our study undergoing imaging, please see ***Chad's flowchart, link to be added** 
 
 [This messy figure](OrderOfEvents.pptx) describes the general overview of the order of events in this project.
 
@@ -31,9 +31,7 @@ Participant identification, registry screening, consenting procedures, and MRI/P
 * Scheduling for the PET MRI depends on time slots available, along with tracer production.  Details about the current weekly template (as of November 2026) are [here](01-before-the-scan/SchedulingTemplate.xlsx)
 
 
-<hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />
-
-<h2 style="background-color: #f0f4f9; border-left: 6px solid #0969da; padding: 12px 16px; border-radius: 0 6px 6px 0; margin-bottom: 20px;">⏱️ 2. During the Visit (Acquisition Protocols)</h2>
+## ⏱️ 2. During the Visit (Acquisition Protocols)
 
 Imaging Data are collected on "Amyloid Day" and "Tau Day".
 ### Tau Day: 
@@ -87,9 +85,7 @@ The PET and MRI files are read by radiologists Deepak Kalbi (PET) and Veeranjane
 | **Summary of Storage Contents** | Local / Cloud Tiers | **to be added** [View Storage Manifest](03-after-the-scan/data-storage/storage-summary-manifest.md) |
 | **SCAN / DVCID & LONI Archiving** | LONI / External Repositories | [View Archiving SOP](03-after-the-scan/data-storage/scan-dvcid-and-loni-archiving.md) |
 
-<hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />
-
-<h2 style="background-color: #f0f4f9; border-left: 6px solid #0969da; padding: 12px 16px; border-radius: 0 6px 6px 0; margin-bottom: 20px;">📊 4. Dataset Processing & Analytics</h2>
+## 📊 4. Dataset Processing & Analytics
 
 Secondary pipelines, biomarker quantification, and downstream structural analyses.
 

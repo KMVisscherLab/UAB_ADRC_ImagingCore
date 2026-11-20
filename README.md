@@ -57,9 +57,7 @@ Imaging Data are collected on "Amyloid Day" and "Tau Day".
 ### Contacts:
 * For questions about scan acquisition, contact: Dean Fang for science-based PET questions, Kristina Visscher for science-based MRI questions, Denise Jeffers for questions about tracer production, Tyler Stamps for participant wrangling.
 
-<hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />
-
-<h2 style="background-color: #f0f4f9; border-left: 6px solid #0969da; padding: 12px 16px; border-radius: 0 6px 6px 0; margin-bottom: 20px;">🔄 3. After the Visit (Preprocessing & Data Storage)</h2>
+## 🔄 3. After the Visit (Preprocessing & Data Storage)
 
 Initial image quality checks, standardized preprocessing for open data sharing, and long-term repository uploads.
 

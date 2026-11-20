@@ -8,7 +8,7 @@ Imaging data are uploaded using the following protocol:
 - Data are uploaded to MIM (DICOM files only) and Cheaha (DICOM and raw `.list` files).
 - Some of the post-processed information from the imaging pipelines is shared within our team through this password-protected Box folder:
   https://uab.box.com/s/nrjcc9dq0m5gv6kqtesdld0ch17cj9za
-- On REDCap, Nikki updates the file at this web address ****
+
 
 ## Strategy
 

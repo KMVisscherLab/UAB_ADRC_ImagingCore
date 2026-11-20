@@ -42,15 +42,18 @@ Imaging Data are collected on "Amyloid Day" and "Tau Day".
 * Possible PET tracers include: AV1451
 * [Manual of Procedures](02-during-the-scan/tau-MOP.pdf) are detailed explanations of the set of procedures, including radiotracer administration timelines 
 * [Participant Information Sheets](02-during-the-scan/tau-PI.pdf) are forms that include checklists for during-scan acquisition and places for notes during the scan.
-* GE formatted descriptions of the scan protocols: [ADRC Tau Scan Protocol](02-during-the-scan/tau-protocol.pdf), [CLARITI Tau Scan Protocol](02-during-the-scan/adult_head_PETMRBRAINCLARiTIAV145161826_20260618151748795_1.pdf). 
+* GE formatted descriptions of the scan protocols: [ADRC Tau Scan Protocol](02-during-the-scan/tau-protocol.pdf), [CLARITI Tau Scan Protocol](02-during-the-scan/adult_head_PETMRBRAINCLARiTIAV145161826_20260618151748795_1.pdf).
+
 
 ### Amyloid Day: 
 * Possible PET tracers include: PIB, Amyvid
 * [Manual of Procedures](02-during-the-scan/amy-MOP.pdf) are detailed explanations of the set of procedures, including radiotracer administration timelines (to be added)
 * [Participant Information Sheets](02-during-the-scan/amy-PI.pdf) are forms that include checklists for during-scan acquisition and places for notes during the scan. (to be added)
-* GE formatted descriptions of the scan protocols: [ADRC Amyloid Scan Protocol](02-during-the-scan/adult_head_PETMRBRAINAlzheimersC-11PiBV24126_20260401114044747_2.pdf), [CLARITI Amyloid Scan Protocol](02-during-the-scan/adult_head_PETMRBRAINCLARiTIC11PIB_20260630094837313_1.pdf) 
+* GE formatted descriptions of the scan protocols: [ADRC Amyloid Scan Protocol](02-during-the-scan/adult_head_PETMRBRAINAlzheimersC-11PiBV24126_20260401114044747_2.pdf), [CLARITI Amyloid Scan Protocol](02-during-the-scan/adult_head_PETMRBRAINCLARiTIC11PIB_20260630094837313_1.pdf)
 
-### Data Uploads:
+
+### Immediately after each scan:
+* On [REDCap](https://redcap.dom.uab.edu/redcap_v17.5.10/index.php?pid=716), Tyler (or another staff member) updates the information about the scan.
 * [Protocol for uploading imaging data](02-during-the-scan/UploadImagingData.md)
 * [Protocol for uploading behavioral data associated with imaging](02-during-the-scan/UploadOtherDataFromImagingDay.md)
 

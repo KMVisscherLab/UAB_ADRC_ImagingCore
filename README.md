@@ -18,9 +18,7 @@ For an overview of the processes that lead up to participants in our study under
 To suggest changes to this document, please email Kristina Visscher (or do a pull request). 
 Contact information for the people described here are listed in this password protected [document](https://uab.app.box.com/file/2495951435335). 
 
-<hr style="height: 4px; background: #0969da; border: none; margin: 48px 0 32px 0; border-radius: 2px;" />
-
-<h2 style="background-color: #f0f4f9; border-left: 6px solid #0969da; padding: 12px 16px; border-radius: 0 6px 6px 0; margin-bottom: 20px;">📋 1. Before the Visit (Recruitment & Intake)</h2>
+## 📋 1. Before the Visit (Recruitment & Intake)
 
 Participant identification, registry screening, consenting procedures, and MRI/PET visit scheduling.
 
